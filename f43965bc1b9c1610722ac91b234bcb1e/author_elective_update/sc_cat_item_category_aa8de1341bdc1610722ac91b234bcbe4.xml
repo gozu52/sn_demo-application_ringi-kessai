@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="起案書">ccec65f01bdc1610722ac91b234bcbc2</sc_cat_item>
+        <sc_category display_value="Office">109cdff8c6112276003b17991a09ad65</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-26 02:48:34</sys_created_on>
+        <sys_id>aa8de1341bdc1610722ac91b234bcbe4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Office.起案書</sys_name>
+        <sys_package display_value="RingiKessai" source="x_snc_ringikessai">f43965bc1b9c1610722ac91b234bcb1e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RingiKessai">f43965bc1b9c1610722ac91b234bcb1e</sys_scope>
+        <sys_update_name>sc_cat_item_category_aa8de1341bdc1610722ac91b234bcbe4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-26 02:48:34</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="RingiKessai">f43965bc1b9c1610722ac91b234bcb1e</application>
+        <file_path/>
+        <instance_id>c630d7ecdbd4465092f5684e139619cc</instance_id>
+        <instance_name>gozuwashingtondev</instance_name>
+        <name>sc_cat_item_category_aa8de1341bdc1610722ac91b234bcbe4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="起案書">ccec65f01bdc1610722ac91b234bcbc2</sc_cat_item><sc_category display_value="Office">109cdff8c6112276003b17991a09ad65</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-08-26 02:48:34</sys_created_on><sys_id>aa8de1341bdc1610722ac91b234bcbe4</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Office.起案書</sys_name><sys_package display_value="RingiKessai" source="x_snc_ringikessai">f43965bc1b9c1610722ac91b234bcb1e</sys_package><sys_policy/><sys_scope display_value="RingiKessai">f43965bc1b9c1610722ac91b234bcb1e</sys_scope><sys_update_name>sc_cat_item_category_aa8de1341bdc1610722ac91b234bcbe4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-08-26 02:48:34</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-125548524</payload_hash>
+        <record_name>Office.起案書</record_name>
+        <reverted_from/>
+        <source>7c3965bc1b9c1610722ac91b234bcb20</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-26 02:48:34</sys_created_on>
+        <sys_id>ae8de1341bdc1610722ac91b234bcbe8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1918c95d22a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-26 02:48:34</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>ee8de134c5dc16108fe9177e7641e7e7</update_guid>
+        <update_guid_history>ee8de134c5dc16108fe9177e7641e7e7:-125548524</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Office.起案書">55bde5341bdc1610722ac91b234bcbe0</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-26 02:49:18</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>873d558c2f0f4ae699c903c7084a7fe9</sys_id>
+        <sys_metadata>aa8de1341bdc1610722ac91b234bcbe4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Office.起案書</sys_name>
+        <sys_package display_value="RingiKessai" source="x_snc_ringikessai">f43965bc1b9c1610722ac91b234bcb1e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="RingiKessai">f43965bc1b9c1610722ac91b234bcb1e</sys_scope>
+        <sys_scope_delete display_value="">48878aa946d24abb97359892e501ca81</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_aa8de1341bdc1610722ac91b234bcbe4</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_aa8de1341bdc1610722ac91b234bcbe4">ae8de1341bdc1610722ac91b234bcbe8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-26 02:49:18</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="topic">
+    <topic action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <apply_to_child_topics>false</apply_to_child_topics>
+        <banner_image/>
+        <banner_image_url/>
+        <description/>
+        <icon/>
+        <icon_url/>
+        <name>Health and wellness</name>
+        <order>100</order>
+        <parent_topic display_value="Benefits">446d106f1bd89210722ac91b234bcb8a</parent_topic>
+        <sys_class_name>topic</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-03 10:01:37</sys_created_on>
+        <sys_id>986d106f1bd89210722ac91b234bcbe0</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Health and wellness</sys_name>
+        <sys_package display_value="RingiKessai" source="x_snc_ringikessai">f43965bc1b9c1610722ac91b234bcb1e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RingiKessai">f43965bc1b9c1610722ac91b234bcb1e</sys_scope>
+        <sys_update_name>topic_986d106f1bd89210722ac91b234bcbe0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-03 10:05:08</sys_updated_on>
+        <taxonomy display_value="稟議決裁">974d982f1bd89210722ac91b234bcb0b</taxonomy>
+        <template display_value="emp_taxonomy_topic">4fb26c9cc3d030102ec1a589a840ddbd</template>
+        <topic_based_navigation>false</topic_based_navigation>
+        <topic_contributor/>
+        <topic_manager/>
+        <topic_path>Human resources / Benefits / Health and wellness</topic_path>
+    </topic>
+    <sys_translated_text action="delete_multiple" query="documentkey=986d106f1bd89210722ac91b234bcbe0"/>
+</record_update>

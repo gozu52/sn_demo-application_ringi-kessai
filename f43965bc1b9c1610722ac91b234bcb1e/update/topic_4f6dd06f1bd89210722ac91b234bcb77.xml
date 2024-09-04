@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="topic">
+    <topic action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <apply_to_child_topics>false</apply_to_child_topics>
+        <banner_image/>
+        <banner_image_url/>
+        <description/>
+        <icon>4b6dd06f1bd89210722ac91b234bcb7a</icon>
+        <icon_url/>
+        <name>Compensation</name>
+        <order>100</order>
+        <parent_topic display_value="Pay and time">3a6dd06f1bd89210722ac91b234bcb68</parent_topic>
+        <sys_class_name>topic</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-03 10:01:48</sys_created_on>
+        <sys_id>4f6dd06f1bd89210722ac91b234bcb77</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Compensation</sys_name>
+        <sys_package display_value="RingiKessai" source="x_snc_ringikessai">f43965bc1b9c1610722ac91b234bcb1e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RingiKessai">f43965bc1b9c1610722ac91b234bcb1e</sys_scope>
+        <sys_update_name>topic_4f6dd06f1bd89210722ac91b234bcb77</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-03 10:01:49</sys_updated_on>
+        <taxonomy display_value="稟議決裁">974d982f1bd89210722ac91b234bcb0b</taxonomy>
+        <template display_value="emp_taxonomy_topic">4fb26c9cc3d030102ec1a589a840ddbd</template>
+        <topic_based_navigation>false</topic_based_navigation>
+        <topic_contributor/>
+        <topic_manager/>
+        <topic_path>Human resources / Pay and time / Compensation</topic_path>
+    </topic>
+    <sys_translated_text action="delete_multiple" query="documentkey=4f6dd06f1bd89210722ac91b234bcb77"/>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#d2cdd7</average_image_color>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <encryption_context/>
+        <file_name>icon</file_name>
+        <hash>91ffaa7b6498451864273ee73b60fa38f8f9b2def80e1d2ee9364481d2485919</hash>
+        <image_height>112</image_height>
+        <image_width>112</image_width>
+        <size_bytes>1965</size_bytes>
+        <size_compressed>1984</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-03 10:01:49</sys_created_on>
+        <sys_id>4b6dd06f1bd89210722ac91b234bcb7a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-03 10:01:49</sys_updated_on>
+        <table_name>ZZ_YYtopic</table_name>
+        <table_sys_id>4f6dd06f1bd89210722ac91b234bcb77</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="icon" sys_id="4b6dd06f1bd89210722ac91b234bcb7a">4b6dd06f1bd89210722ac91b234bcb7a</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-03 10:01:49</sys_created_on>
+        <sys_id>876dd06f1bd89210722ac91b234bcb7b</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>2632</length>
+        <position>1</position>
+        <sys_attachment display_value="icon" sys_id="4b6dd06f1bd89210722ac91b234bcb7a">4b6dd06f1bd89210722ac91b234bcb7a</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-03 10:01:49</sys_created_on>
+        <sys_id>076dd06f1bd89210722ac91b234bcb7b</sys_id>
+    </sys_attachment_doc>
+</record_update>

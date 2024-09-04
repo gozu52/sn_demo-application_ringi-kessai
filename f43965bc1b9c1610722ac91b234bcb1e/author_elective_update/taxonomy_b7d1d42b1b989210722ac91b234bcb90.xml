@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="taxonomy">
+    <taxonomy action="DELETE">
+        <active>true</active>
+        <description/>
+        <managers/>
+        <name>稟議決裁</name>
+        <sys_class_name>taxonomy</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-03 09:11:30</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b7d1d42b1b989210722ac91b234bcb90</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>稟議決裁</sys_name>
+        <sys_package display_value="RingiKessai" source="x_snc_ringikessai">f43965bc1b9c1610722ac91b234bcb1e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RingiKessai">f43965bc1b9c1610722ac91b234bcb1e</sys_scope>
+        <sys_update_name>taxonomy_b7d1d42b1b989210722ac91b234bcb90</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-03 09:11:30</sys_updated_on>
+    </taxonomy>
+    <sys_translated_text action="DELETE" query="documentkey=b7d1d42b1b989210722ac91b234bcb90"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="RingiKessai">f43965bc1b9c1610722ac91b234bcb1e</application>
+        <file_path/>
+        <instance_id>c630d7ecdbd4465092f5684e139619cc</instance_id>
+        <instance_name>gozuwashingtondev</instance_name>
+        <name>taxonomy_b7d1d42b1b989210722ac91b234bcb90</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="taxonomy"><taxonomy action="INSERT_OR_UPDATE"><active>true</active><description/><managers/><name>稟議決裁</name><sys_class_name>taxonomy</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-03 09:11:30</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>b7d1d42b1b989210722ac91b234bcb90</sys_id><sys_mod_count>0</sys_mod_count><sys_name>稟議決裁</sys_name><sys_package display_value="RingiKessai" source="x_snc_ringikessai">f43965bc1b9c1610722ac91b234bcb1e</sys_package><sys_policy/><sys_scope display_value="RingiKessai">f43965bc1b9c1610722ac91b234bcb1e</sys_scope><sys_update_name>taxonomy_b7d1d42b1b989210722ac91b234bcb90</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-03 09:11:30</sys_updated_on></taxonomy><sys_translated_text action="delete_multiple" query="documentkey=b7d1d42b1b989210722ac91b234bcb90"/></record_update>]]></payload>
+        <payload_hash>-1745627308</payload_hash>
+        <record_name>稟議決裁</record_name>
+        <reverted_from/>
+        <source>7c3965bc1b9c1610722ac91b234bcb20</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-03 09:11:30</sys_created_on>
+        <sys_id>cae1542b1b989210722ac91b234bcbe6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>191b72747180000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-03 09:11:30</sys_updated_on>
+        <type>Taxonomy</type>
+        <update_guid>cee1542bd2989210fe3365d2c6e74ee5</update_guid>
+        <update_guid_history>cee1542bd2989210fe3365d2c6e74ee5:-1745627308</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="稟議決裁">7c4d1c2f1bd89210722ac91b234bcb69</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-03 10:01:07</sys_created_on>
+        <sys_db_object display_value="Taxonomy" name="taxonomy">taxonomy</sys_db_object>
+        <sys_id>8aa99761f22d44708dd94f48df6c1d24</sys_id>
+        <sys_metadata>b7d1d42b1b989210722ac91b234bcb90</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>稟議決裁</sys_name>
+        <sys_package display_value="RingiKessai" source="x_snc_ringikessai">f43965bc1b9c1610722ac91b234bcb1e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="RingiKessai">f43965bc1b9c1610722ac91b234bcb1e</sys_scope>
+        <sys_scope_delete display_value="">48878aa946d24abb97359892e501ca81</sys_scope_delete>
+        <sys_update_name>taxonomy_b7d1d42b1b989210722ac91b234bcb90</sys_update_name>
+        <sys_update_version display_value="taxonomy_b7d1d42b1b989210722ac91b234bcb90">cae1542b1b989210722ac91b234bcbe6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-03 10:01:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

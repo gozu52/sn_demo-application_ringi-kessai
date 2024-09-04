@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_permission">
+    <par_dashboard_permission action="INSERT_OR_UPDATE">
+        <can_read>true</can_read>
+        <can_share>false</can_share>
+        <can_write>false</can_write>
+        <dashboard display_value="RingiKessai Workspace">78bebd38021056106de26aee1080dad7</dashboard>
+        <group/>
+        <owner>false</owner>
+        <role display_value="x_snc_ringikessai.admin" name="x_snc_ringikessai.admin">f43965bc1b9c1610722ac91b234bcb4a</role>
+        <sys_class_name>par_dashboard_permission</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-26 04:03:39</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>eabe31781b105610722ac91b234bcb6f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>78bebd38021056106de26aee1080dad7</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="RingiKessai" source="x_snc_ringikessai">f43965bc1b9c1610722ac91b234bcb1e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RingiKessai">f43965bc1b9c1610722ac91b234bcb1e</sys_scope>
+        <sys_update_name>par_dashboard_permission_eabe31781b105610722ac91b234bcb6f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-26 04:03:39</sys_updated_on>
+        <user/>
+    </par_dashboard_permission>
+</record_update>

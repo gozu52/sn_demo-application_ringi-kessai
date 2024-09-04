@@ -1,0 +1,1025 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item">
+    <sc_cat_item action="INSERT_OR_UPDATE">
+        <access_type>restricted</access_type>
+        <active>true</active>
+        <availability>on_desktop</availability>
+        <billable>false</billable>
+        <category/>
+        <checked_out/>
+        <cost>0</cost>
+        <custom_cart/>
+        <delivery_plan display_value="DEFAULT">523da512c611228900811a37c97c2014</delivery_plan>
+        <delivery_plan_script/>
+        <delivery_time>1970-01-03 00:00:00</delivery_time>
+        <description/>
+        <display_price_property>non_zero</display_price_property>
+        <entitlement_script/>
+        <flow_designer_flow/>
+        <fulfillment_automation_level>unspecified</fulfillment_automation_level>
+        <group/>
+        <hide_sp>false</hide_sp>
+        <icon/>
+        <ignore_price>true</ignore_price>
+        <image/>
+        <location/>
+        <make_item_non_conversational>false</make_item_non_conversational>
+        <mandatory_attachment>false</mandatory_attachment>
+        <meta/>
+        <mobile_hide_price>false</mobile_hide_price>
+        <mobile_picture/>
+        <mobile_picture_type>use_desktop_picture</mobile_picture_type>
+        <model/>
+        <name/>
+        <no_attachment_v2>false</no_attachment_v2>
+        <no_cart>false</no_cart>
+        <no_cart_v2>false</no_cart_v2>
+        <no_delivery_time_v2>false</no_delivery_time_v2>
+        <no_order>false</no_order>
+        <no_order_now>false</no_order_now>
+        <no_proceed_checkout>false</no_proceed_checkout>
+        <no_quantity>false</no_quantity>
+        <no_quantity_v2>false</no_quantity_v2>
+        <no_save_as_draft>false</no_save_as_draft>
+        <no_search>false</no_search>
+        <no_wishlist_v2>false</no_wishlist_v2>
+        <omit_price>false</omit_price>
+        <order>0</order>
+        <ordered_item_link/>
+        <owner display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owner>
+        <picture/>
+        <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=7f0a0d0e53231200eb7c0a1806dc34f4&amp;sysparm_preview=true", "summary");</preview>
+        <published_ref/>
+        <recurring_frequency/>
+        <request_method/>
+        <roles/>
+        <sc_catalogs/>
+        <sc_ic_item_staging/>
+        <sc_ic_version/>
+        <sc_template/>
+        <short_description/>
+        <show_variable_help_on_load>false</show_variable_help_on_load>
+        <start_closed>false</start_closed>
+        <state/>
+        <sys_class_name>sc_cat_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-03 10:01:52</sys_created_on>
+        <sys_id>7f0a0d0e53231200eb7c0a1806dc34f4</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="RingiKessai" source="x_snc_ringikessai">f43965bc1b9c1610722ac91b234bcb1e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RingiKessai">f43965bc1b9c1610722ac91b234bcb1e</sys_scope>
+        <sys_update_name>sc_cat_item_7f0a0d0e53231200eb7c0a1806dc34f4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-03 10:01:52</sys_updated_on>
+        <taxonomy_topic display_value="Employment information">3f6dd06f1bd89210722ac91b234bcbe5</taxonomy_topic>
+        <template/>
+        <template_manager_roles/>
+        <type>item</type>
+        <use_sc_layout>true</use_sc_layout>
+        <vendor/>
+        <version>1</version>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <workflow/>
+    </sc_cat_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=7f0a0d0e53231200eb7c0a1806dc34f4"/>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>7f0a0d0e53231200eb7c0a1806dc34f4</documentkey>
+        <fieldname>description</fieldname>
+        <language>ja</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>b2039dde1bd60e10722ac91b234bcbda</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>sc_cat_item</tablename>
+        <value>&lt;p&gt;雇用証明書の直接送付を希望する場合は、受信者のメールアドレスを含めてください。&lt;/p&gt;</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>7f0a0d0e53231200eb7c0a1806dc34f4</documentkey>
+        <fieldname>name</fieldname>
+        <language>ja</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>540319de1bd60e10722ac91b234bcb81</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>sc_cat_item</tablename>
+        <value>雇用証明書</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>7f0a0d0e53231200eb7c0a1806dc34f4</documentkey>
+        <fieldname>short_description</fieldname>
+        <language>ja</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>03435d921b1a0e10722ac91b234bcb08</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>sc_cat_item</tablename>
+        <value>雇用証明書を要求します</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>7f0a0d0e53231200eb7c0a1806dc34f4</documentkey>
+        <fieldname>description</fieldname>
+        <language>ar</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>7c61e54c1b4cd61450eb628b234bcbe4</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>sc_cat_item_producer</tablename>
+        <value>&lt;p&gt;إذا كنت تريد منا إرسال الرسالة مباشرة، فيُرجى تضمين عنوان البريد الإلكتروني للمستلم.&lt;/p&gt;</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>7f0a0d0e53231200eb7c0a1806dc34f4</documentkey>
+        <fieldname>description</fieldname>
+        <language>cs</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>8e61e94c1b4cd61450eb628b234bcb33</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>sc_cat_item_producer</tablename>
+        <value>&lt;p&gt;Pokud chcete, abychom zprávu zaslali přímo, uveďte prosím e-mailovou adresu příjemce.&lt;/p&gt;</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>7f0a0d0e53231200eb7c0a1806dc34f4</documentkey>
+        <fieldname>description</fieldname>
+        <language>de</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>1361ad4c1b4cd61450eb628b234bcb2c</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>sc_cat_item_producer</tablename>
+        <value>&lt;p&gt;Wenn wir den Brief direkt versenden sollen, geben Sie die E-Mail-Adresse des Empfängers an.&lt;/p&gt;</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>7f0a0d0e53231200eb7c0a1806dc34f4</documentkey>
+        <fieldname>description</fieldname>
+        <language>es</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>8c71218c1b4cd61450eb628b234bcb61</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>sc_cat_item_producer</tablename>
+        <value>&lt;p&gt;Si desea que enviemos la carta directamente, incluya la dirección de correo electrónico del destinatario.&lt;/p&gt;</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>7f0a0d0e53231200eb7c0a1806dc34f4</documentkey>
+        <fieldname>description</fieldname>
+        <language>fi</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>3071a18c1b4cd61450eb628b234bcbc7</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>sc_cat_item_producer</tablename>
+        <value>&lt;p&gt;Jos haluat lähettää kirjeen meille suoraan, liitä mukaan vastaanottajan' sähköpostiosoite.&lt;/p&gt;</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>7f0a0d0e53231200eb7c0a1806dc34f4</documentkey>
+        <fieldname>description</fieldname>
+        <language>fq</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>5671a58c1b4cd61450eb628b234bcbd8</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>sc_cat_item_producer</tablename>
+        <value>&lt;p&gt;Si vous souhaitez que nous envoyions la lettre directement, veuillez inclure l'adresse de courriel du destinataire.&lt;/p&gt;</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>7f0a0d0e53231200eb7c0a1806dc34f4</documentkey>
+        <fieldname>description</fieldname>
+        <language>fr</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>1b71a98c1b4cd61450eb628b234bcb7c</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>sc_cat_item_producer</tablename>
+        <value>&lt;p&gt;Si vous souhaitez que nous envoyions la lettre directement, veuillez inclure l'adresse e-mail du destinataire.&lt;/p&gt;</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>7f0a0d0e53231200eb7c0a1806dc34f4</documentkey>
+        <fieldname>description</fieldname>
+        <language>he</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>88812d8c1b4cd61450eb628b234bcb80</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>sc_cat_item_producer</tablename>
+        <value>&lt;p&gt;אם תרצה שנשלח את המכתב ישירות, אנא כלול את כתובת הדוא"ל של הנמען.&lt;/p&gt;</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>7f0a0d0e53231200eb7c0a1806dc34f4</documentkey>
+        <fieldname>description</fieldname>
+        <language>hu</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>f481ad8c1b4cd61450eb628b234bcbe5</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>sc_cat_item_producer</tablename>
+        <value>&lt;p&gt;Ha azt szeretné, hogy közvetlenül küldjük el a levelet, adja meg a címzett e-mail-címét.&lt;/p&gt;</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>7f0a0d0e53231200eb7c0a1806dc34f4</documentkey>
+        <fieldname>description</fieldname>
+        <language>it</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>9281e1cc1b4cd61450eb628b234bcbaf</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>sc_cat_item_producer</tablename>
+        <value>&lt;p&gt;Per inviarci direttamente la lettera, includere l'indirizzo e-mail del destinatario.&lt;/p&gt;</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>7f0a0d0e53231200eb7c0a1806dc34f4</documentkey>
+        <fieldname>description</fieldname>
+        <language>ja</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>e78165cc1b4cd61450eb628b234bcb86</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>sc_cat_item_producer</tablename>
+        <value>&lt;p&gt;雇用証明書の直接送付を希望する場合は、受信者のメールアドレスを含めてください。&lt;/p&gt;</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>7f0a0d0e53231200eb7c0a1806dc34f4</documentkey>
+        <fieldname>description</fieldname>
+        <language>ko</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>2491e5cc1b4cd61450eb628b234bcb8f</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>sc_cat_item_producer</tablename>
+        <value>&lt;p&gt;편지를 직접 보내주기를 원할 경우에는 수신자의 이메일 주소를 포함하십시오.&lt;/p&gt;</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>7f0a0d0e53231200eb7c0a1806dc34f4</documentkey>
+        <fieldname>description</fieldname>
+        <language>nb</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>bd91a9cc1b4cd61450eb628b234bcb90</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>sc_cat_item_producer</tablename>
+        <value>&lt;p&gt;Hvis du vil at vi skal sende brevet direkte, inkluderer du mottakerens e-postadresse.&lt;/p&gt;</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>7f0a0d0e53231200eb7c0a1806dc34f4</documentkey>
+        <fieldname>description</fieldname>
+        <language>nl</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>b791edcc1b4cd61450eb628b234bcbe6</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>sc_cat_item_producer</tablename>
+        <value>&lt;p&gt;Als u wilt dat we de brief rechtstreeks naar de ontvanger sturen, vermeld dan het e-mailadres van de ontvanger.&lt;/p&gt;</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>7f0a0d0e53231200eb7c0a1806dc34f4</documentkey>
+        <fieldname>description</fieldname>
+        <language>pb</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>d0a161001b8cd61450eb628b234bcb4b</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>sc_cat_item_producer</tablename>
+        <value>&lt;p&gt;Se você quiser que enviemos a carta diretamente para o destinatário, inclua o endereço de e-mail dele.&lt;/p&gt;</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>7f0a0d0e53231200eb7c0a1806dc34f4</documentkey>
+        <fieldname>description</fieldname>
+        <language>pl</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>42a1a5001b8cd61450eb628b234bcb2e</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>sc_cat_item_producer</tablename>
+        <value>&lt;p&gt;Jeśli chcesz, abyśmy wysłali list bezpośrednio, dołącz adres e-mail odbiorcy.&lt;/p&gt;</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>7f0a0d0e53231200eb7c0a1806dc34f4</documentkey>
+        <fieldname>description</fieldname>
+        <language>pt</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>aaa1e5001b8cd61450eb628b234bcbc4</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>sc_cat_item_producer</tablename>
+        <value>&lt;p&gt;Se pretender que a declaração seja enviada diretamente, inclua o endereço de e-mail do destinatário.&lt;/p&gt;</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>7f0a0d0e53231200eb7c0a1806dc34f4</documentkey>
+        <fieldname>description</fieldname>
+        <language>ru</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>c8b12d001b8cd61450eb628b234bcb43</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>sc_cat_item_producer</tablename>
+        <value>&lt;p&gt;Если вы хотите отправить письмо нам напрямую, укажите адрес электронной почты получателя.&lt;/p&gt;</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>7f0a0d0e53231200eb7c0a1806dc34f4</documentkey>
+        <fieldname>description</fieldname>
+        <language>sv</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>81b1ed001b8cd61450eb628b234bcb48</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>sc_cat_item_producer</tablename>
+        <value>&lt;p&gt;Om du vill att vi ska skicka brevet direkt ska du inkludera mottagarens e-postadress.&lt;/p&gt;</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>7f0a0d0e53231200eb7c0a1806dc34f4</documentkey>
+        <fieldname>description</fieldname>
+        <language>th</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>11b121401b8cd61450eb628b234bcb08</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>sc_cat_item_producer</tablename>
+        <value>&lt;p&gt;ถ้าคุณต้องการให้เราส่งจดหมายให้โดยตรง โปรดระบุที่อยู่อีเมลของผู้รับ&lt;/p&gt;</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>7f0a0d0e53231200eb7c0a1806dc34f4</documentkey>
+        <fieldname>description</fieldname>
+        <language>tr</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>dfb165401b8cd61450eb628b234bcb5f</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>sc_cat_item_producer</tablename>
+        <value>&lt;p&gt;Yazıyı doğrudan göndermemizi istemeniz halinde, lütfen alıcının e-posta adresini belirtin.&lt;/p&gt;</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>7f0a0d0e53231200eb7c0a1806dc34f4</documentkey>
+        <fieldname>description</fieldname>
+        <language>zh</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>f3b1a5401b8cd61450eb628b234bcbd5</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>sc_cat_item_producer</tablename>
+        <value>&lt;p&gt;如果希望我们直接发送信件，请包含收件人电子邮件地址。&lt;/p&gt;</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>7f0a0d0e53231200eb7c0a1806dc34f4</documentkey>
+        <fieldname>description</fieldname>
+        <language>zt</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>45c1e9401b8cd61450eb628b234bcb74</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>sc_cat_item_producer</tablename>
+        <value>&lt;p&gt;如果您想要直接傳送信件給我們，請包含收件者的電子郵件地址。&lt;/p&gt;</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>7f0a0d0e53231200eb7c0a1806dc34f4</documentkey>
+        <fieldname>name</fieldname>
+        <language>ar</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>f061e54c1b4cd61450eb628b234bcbe7</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>sc_cat_item_producer</tablename>
+        <value>رسالة التحقق من الوظيفة</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>7f0a0d0e53231200eb7c0a1806dc34f4</documentkey>
+        <fieldname>name</fieldname>
+        <language>cs</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>0661e94c1b4cd61450eb628b234bcb36</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>sc_cat_item_producer</tablename>
+        <value>Potvrzení o zaměstnání</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>7f0a0d0e53231200eb7c0a1806dc34f4</documentkey>
+        <fieldname>name</fieldname>
+        <language>de</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>9761ad4c1b4cd61450eb628b234bcb2e</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>sc_cat_item_producer</tablename>
+        <value>Arbeitsbestätigungsschreiben</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>7f0a0d0e53231200eb7c0a1806dc34f4</documentkey>
+        <fieldname>name</fieldname>
+        <language>es</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>0471218c1b4cd61450eb628b234bcb64</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>sc_cat_item_producer</tablename>
+        <value>Carta de verificación de empleo</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>7f0a0d0e53231200eb7c0a1806dc34f4</documentkey>
+        <fieldname>name</fieldname>
+        <language>fi</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>b471a18c1b4cd61450eb628b234bcbc9</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>sc_cat_item_producer</tablename>
+        <value>Työtodistus</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>7f0a0d0e53231200eb7c0a1806dc34f4</documentkey>
+        <fieldname>name</fieldname>
+        <language>fq</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>da71a58c1b4cd61450eb628b234bcbda</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>sc_cat_item_producer</tablename>
+        <value>Lettre de vérification d'emploi</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>7f0a0d0e53231200eb7c0a1806dc34f4</documentkey>
+        <fieldname>name</fieldname>
+        <language>fr</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>9f71a98c1b4cd61450eb628b234bcb7e</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>sc_cat_item_producer</tablename>
+        <value>Lettre de vérification des emplois précédents</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>7f0a0d0e53231200eb7c0a1806dc34f4</documentkey>
+        <fieldname>name</fieldname>
+        <language>he</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>00812d8c1b4cd61450eb628b234bcb83</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>sc_cat_item_producer</tablename>
+        <value>מכתב אימות העסקה</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>7f0a0d0e53231200eb7c0a1806dc34f4</documentkey>
+        <fieldname>name</fieldname>
+        <language>hu</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>7c81ad8c1b4cd61450eb628b234bcbe7</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>sc_cat_item_producer</tablename>
+        <value>Alkalmazotti jogviszonyt igazoló levél</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>7f0a0d0e53231200eb7c0a1806dc34f4</documentkey>
+        <fieldname>name</fieldname>
+        <language>it</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>1a81e1cc1b4cd61450eb628b234bcbb1</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>sc_cat_item_producer</tablename>
+        <value>Lettera di verifica dell'assunzione</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>7f0a0d0e53231200eb7c0a1806dc34f4</documentkey>
+        <fieldname>name</fieldname>
+        <language>ja</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>6f8165cc1b4cd61450eb628b234bcb88</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>sc_cat_item_producer</tablename>
+        <value>雇用証明書</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>7f0a0d0e53231200eb7c0a1806dc34f4</documentkey>
+        <fieldname>name</fieldname>
+        <language>ko</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>a891e5cc1b4cd61450eb628b234bcb91</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>sc_cat_item_producer</tablename>
+        <value>재직 증명서</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>7f0a0d0e53231200eb7c0a1806dc34f4</documentkey>
+        <fieldname>name</fieldname>
+        <language>nb</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>3591a9cc1b4cd61450eb628b234bcb93</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>sc_cat_item_producer</tablename>
+        <value>Verifiseringsbrev for ansettelse</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>7f0a0d0e53231200eb7c0a1806dc34f4</documentkey>
+        <fieldname>name</fieldname>
+        <language>nl</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>3f91edcc1b4cd61450eb628b234bcbe8</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>sc_cat_item_producer</tablename>
+        <value>Verificatiebrief van dienstbetrekking</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>7f0a0d0e53231200eb7c0a1806dc34f4</documentkey>
+        <fieldname>name</fieldname>
+        <language>pb</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>58a161001b8cd61450eb628b234bcb4d</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>sc_cat_item_producer</tablename>
+        <value>Carta de verificação de emprego</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>7f0a0d0e53231200eb7c0a1806dc34f4</documentkey>
+        <fieldname>name</fieldname>
+        <language>pl</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>c6a1a5001b8cd61450eb628b234bcb30</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>sc_cat_item_producer</tablename>
+        <value>List z zaświadczeniem o zatrudnieniu</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>7f0a0d0e53231200eb7c0a1806dc34f4</documentkey>
+        <fieldname>name</fieldname>
+        <language>pt</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>22a1e5001b8cd61450eb628b234bcbc7</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>sc_cat_item_producer</tablename>
+        <value>Declaração de Emprego</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>7f0a0d0e53231200eb7c0a1806dc34f4</documentkey>
+        <fieldname>name</fieldname>
+        <language>ru</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>40b12d001b8cd61450eb628b234bcb46</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>sc_cat_item_producer</tablename>
+        <value>Справка с места работы</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>7f0a0d0e53231200eb7c0a1806dc34f4</documentkey>
+        <fieldname>name</fieldname>
+        <language>sv</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>09b1ed001b8cd61450eb628b234bcb4a</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>sc_cat_item_producer</tablename>
+        <value>Brev med anställningsverifikation</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>7f0a0d0e53231200eb7c0a1806dc34f4</documentkey>
+        <fieldname>name</fieldname>
+        <language>th</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>95b121401b8cd61450eb628b234bcb0a</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>sc_cat_item_producer</tablename>
+        <value>จดหมายการยืนยันการจ้างงาน</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>7f0a0d0e53231200eb7c0a1806dc34f4</documentkey>
+        <fieldname>name</fieldname>
+        <language>tr</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>57b165401b8cd61450eb628b234bcb62</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>sc_cat_item_producer</tablename>
+        <value>İstihdam Doğrulama Yazısı</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>7f0a0d0e53231200eb7c0a1806dc34f4</documentkey>
+        <fieldname>name</fieldname>
+        <language>zh</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>7bb1a5401b8cd61450eb628b234bcbd7</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>sc_cat_item_producer</tablename>
+        <value>雇用验证信</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>7f0a0d0e53231200eb7c0a1806dc34f4</documentkey>
+        <fieldname>name</fieldname>
+        <language>zt</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>c9c1e9401b8cd61450eb628b234bcb76</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>sc_cat_item_producer</tablename>
+        <value>雇用證明書</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>7f0a0d0e53231200eb7c0a1806dc34f4</documentkey>
+        <fieldname>short_description</fieldname>
+        <language>ar</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>7861e54c1b4cd61450eb628b234bcbeb</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>sc_cat_item_producer</tablename>
+        <value>طلب رسالة التحقق من الوظيفة</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>7f0a0d0e53231200eb7c0a1806dc34f4</documentkey>
+        <fieldname>short_description</fieldname>
+        <language>cs</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>8a61e94c1b4cd61450eb628b234bcb3a</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>sc_cat_item_producer</tablename>
+        <value>Požadavek na potvrzení o zaměstnání</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>7f0a0d0e53231200eb7c0a1806dc34f4</documentkey>
+        <fieldname>short_description</fieldname>
+        <language>de</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>1f61ad4c1b4cd61450eb628b234bcb32</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>sc_cat_item_producer</tablename>
+        <value>Schreiben zur Bestätigung des Beschäftigungsverhältnisses anfordern</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>7f0a0d0e53231200eb7c0a1806dc34f4</documentkey>
+        <fieldname>short_description</fieldname>
+        <language>es</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>8871218c1b4cd61450eb628b234bcb68</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>sc_cat_item_producer</tablename>
+        <value>Solicitar carta de verificación de empleo</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>7f0a0d0e53231200eb7c0a1806dc34f4</documentkey>
+        <fieldname>short_description</fieldname>
+        <language>fi</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>3c71a18c1b4cd61450eb628b234bcbcd</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>sc_cat_item_producer</tablename>
+        <value>Pyydä työtodistusta</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>7f0a0d0e53231200eb7c0a1806dc34f4</documentkey>
+        <fieldname>short_description</fieldname>
+        <language>fq</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>5271a58c1b4cd61450eb628b234bcbdf</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>sc_cat_item_producer</tablename>
+        <value>Demander une lettre de vérification d'emploi</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>7f0a0d0e53231200eb7c0a1806dc34f4</documentkey>
+        <fieldname>short_description</fieldname>
+        <language>fr</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>2771a98c1b4cd61450eb628b234bcb83</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>sc_cat_item_producer</tablename>
+        <value>Demander une lettre de vérification des emplois précédents</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>7f0a0d0e53231200eb7c0a1806dc34f4</documentkey>
+        <fieldname>short_description</fieldname>
+        <language>he</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>84812d8c1b4cd61450eb628b234bcb87</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>sc_cat_item_producer</tablename>
+        <value>בקש מכתב אישור העסקה</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>7f0a0d0e53231200eb7c0a1806dc34f4</documentkey>
+        <fieldname>short_description</fieldname>
+        <language>hu</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>f081ad8c1b4cd61450eb628b234bcbec</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>sc_cat_item_producer</tablename>
+        <value>Alkalmazotti jogviszonyt igazoló levél kérelmezése</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>7f0a0d0e53231200eb7c0a1806dc34f4</documentkey>
+        <fieldname>short_description</fieldname>
+        <language>it</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>ae81e1cc1b4cd61450eb628b234bcbb5</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>sc_cat_item_producer</tablename>
+        <value>Richiedere una lettera di verifica impiego</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>7f0a0d0e53231200eb7c0a1806dc34f4</documentkey>
+        <fieldname>short_description</fieldname>
+        <language>ja</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>e38165cc1b4cd61450eb628b234bcb8d</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>sc_cat_item_producer</tablename>
+        <value>雇用証明書を要求します</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>7f0a0d0e53231200eb7c0a1806dc34f4</documentkey>
+        <fieldname>short_description</fieldname>
+        <language>ko</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>2091e5cc1b4cd61450eb628b234bcb96</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>sc_cat_item_producer</tablename>
+        <value>재직 증명서 요청</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>7f0a0d0e53231200eb7c0a1806dc34f4</documentkey>
+        <fieldname>short_description</fieldname>
+        <language>nb</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>b991a9cc1b4cd61450eb628b234bcb97</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>sc_cat_item_producer</tablename>
+        <value>Be om et brev som bekrefter ansettelsesforholdet</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>7f0a0d0e53231200eb7c0a1806dc34f4</documentkey>
+        <fieldname>short_description</fieldname>
+        <language>nl</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>b391edcc1b4cd61450eb628b234bcbed</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>sc_cat_item_producer</tablename>
+        <value>Een brief ter bevestiging van dienstbetrekking aanvragen</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>7f0a0d0e53231200eb7c0a1806dc34f4</documentkey>
+        <fieldname>short_description</fieldname>
+        <language>pb</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>94a161001b8cd61450eb628b234bcb5e</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>sc_cat_item_producer</tablename>
+        <value>Solicitar uma declaração de emprego</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>7f0a0d0e53231200eb7c0a1806dc34f4</documentkey>
+        <fieldname>short_description</fieldname>
+        <language>pl</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>4ea1a5001b8cd61450eb628b234bcb34</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>sc_cat_item_producer</tablename>
+        <value>Złóż wniosek o list z zaświadczeniem o zatrudnieniu</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>7f0a0d0e53231200eb7c0a1806dc34f4</documentkey>
+        <fieldname>short_description</fieldname>
+        <language>pt</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>a6a1e5001b8cd61450eb628b234bcbcb</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>sc_cat_item_producer</tablename>
+        <value>Solicitar uma declaração de emprego</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>7f0a0d0e53231200eb7c0a1806dc34f4</documentkey>
+        <fieldname>short_description</fieldname>
+        <language>ru</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>c4b12d001b8cd61450eb628b234bcb4a</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>sc_cat_item_producer</tablename>
+        <value>Запросить справку с места работы</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>7f0a0d0e53231200eb7c0a1806dc34f4</documentkey>
+        <fieldname>short_description</fieldname>
+        <language>sv</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>8db1ed001b8cd61450eb628b234bcb4e</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>sc_cat_item_producer</tablename>
+        <value>Begär ett verifikationsbrev för anställningen</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>7f0a0d0e53231200eb7c0a1806dc34f4</documentkey>
+        <fieldname>short_description</fieldname>
+        <language>th</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>1db121401b8cd61450eb628b234bcb0e</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>sc_cat_item_producer</tablename>
+        <value>ขอจดหมายการยืนยันการจ้างงาน</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>7f0a0d0e53231200eb7c0a1806dc34f4</documentkey>
+        <fieldname>short_description</fieldname>
+        <language>tr</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>dbb165401b8cd61450eb628b234bcb66</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>sc_cat_item_producer</tablename>
+        <value>Bir istihdam doğrulama mektubu isteminde bulun</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>7f0a0d0e53231200eb7c0a1806dc34f4</documentkey>
+        <fieldname>short_description</fieldname>
+        <language>zh</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>ffb1a5401b8cd61450eb628b234bcbdb</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>sc_cat_item_producer</tablename>
+        <value>请求雇用验证信</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>7f0a0d0e53231200eb7c0a1806dc34f4</documentkey>
+        <fieldname>short_description</fieldname>
+        <language>zt</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>41c1e9401b8cd61450eb628b234bcb7b</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>sc_cat_item_producer</tablename>
+        <value>要求雇用證明書</value>
+    </sys_translated_text>
+    <fx_price action="delete_multiple" query="id=7f0a0d0e53231200eb7c0a1806dc34f4"/>
+</record_update>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="topic">
+    <topic action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <apply_to_child_topics>false</apply_to_child_topics>
+        <banner_image/>
+        <banner_image_url/>
+        <description/>
+        <icon>696d906f1bd89210722ac91b234bcb4b</icon>
+        <icon_url/>
+        <name>Retirement</name>
+        <order>200</order>
+        <parent_topic display_value="Benefits">446d106f1bd89210722ac91b234bcb8a</parent_topic>
+        <sys_class_name>topic</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-03 10:01:42</sys_created_on>
+        <sys_id>616d906f1bd89210722ac91b234bcb3c</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Retirement</sys_name>
+        <sys_package display_value="RingiKessai" source="x_snc_ringikessai">f43965bc1b9c1610722ac91b234bcb1e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RingiKessai">f43965bc1b9c1610722ac91b234bcb1e</sys_scope>
+        <sys_update_name>topic_616d906f1bd89210722ac91b234bcb3c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-03 10:01:42</sys_updated_on>
+        <taxonomy display_value="稟議決裁">974d982f1bd89210722ac91b234bcb0b</taxonomy>
+        <template display_value="emp_taxonomy_topic">4fb26c9cc3d030102ec1a589a840ddbd</template>
+        <topic_based_navigation>false</topic_based_navigation>
+        <topic_contributor/>
+        <topic_manager/>
+        <topic_path>Human resources / Benefits / Retirement</topic_path>
+    </topic>
+    <sys_translated_text action="delete_multiple" query="documentkey=616d906f1bd89210722ac91b234bcb3c"/>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#697c89</average_image_color>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <encryption_context/>
+        <file_name>icon</file_name>
+        <hash>e305e17ae5fa2a31ccd14ad43f8e1e3cafb976797e53f4420de1022d5f9765ad</hash>
+        <image_height>112</image_height>
+        <image_width>112</image_width>
+        <size_bytes>2103</size_bytes>
+        <size_compressed>2103</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-03 10:01:42</sys_created_on>
+        <sys_id>696d906f1bd89210722ac91b234bcb4b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-03 10:01:42</sys_updated_on>
+        <table_name>ZZ_YYtopic</table_name>
+        <table_sys_id>616d906f1bd89210722ac91b234bcb3c</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="icon" sys_id="696d906f1bd89210722ac91b234bcb4b">696d906f1bd89210722ac91b234bcb4b</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-03 10:01:42</sys_created_on>
+        <sys_id>256d906f1bd89210722ac91b234bcb4c</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>2792</length>
+        <position>1</position>
+        <sys_attachment display_value="icon" sys_id="696d906f1bd89210722ac91b234bcb4b">696d906f1bd89210722ac91b234bcb4b</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-03 10:01:42</sys_created_on>
+        <sys_id>a56d906f1bd89210722ac91b234bcb4c</sys_id>
+    </sys_attachment_doc>
+</record_update>
