@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="2e79e9bc1b9c1610722ac91b234bcb95" extends="task" label="ringi_table" max_length="40" name="x_snc_ringikessai_ringi_table" text_index="true" type="collection">
+        <element label="起案者" max_length="32" name="u_kian_user" reference="sys_user" type="reference"/>
+        <element label="詳細な計画" max_length="4000" name="u_detail_plan" type="string"/>
+        <element label="背景と説明" max_length="4000" name="u_background_description" type="string"/>
+        <element label="期待される効果" max_length="4000" name="u_expected_benefit" type="string"/>
+        <element label="予算" max_length="40" name="u_budget" type="string"/>
+        <element label="受任者2" max_length="32" name="u_appointee_2" reference="sys_user" type="reference"/>
+        <element choice="3" label="ステータス" max_length="40" name="u_state_ringi" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="上長承認" sequence="2" value="u_state_ringi_3"/>
+                <element inactive_on_update="false" label="決裁" sequence="5" value="u_state_ringi_6"/>
+                <element inactive_on_update="false" label="部長承認" sequence="3" value="u_state_ringi_4"/>
+                <element inactive_on_update="false" label="社長承認" sequence="4" value="u_state_ringi_5"/>
+                <element inactive_on_update="false" label="起案" sequence="0" value="u_state_ringi_1"/>
+                <element inactive_on_update="false" label="稟議" sequence="1" value="u_state_ringi_2"/>
+            </choice>
+        </element>
+        <element label="受任者1" max_length="32" name="u_appointee" reference="sys_user" type="reference"/>
+        <element label="起案日" max_length="40" name="u_opened_date" type="glide_date"/>
+        <element label="主文" max_length="4000" name="u_main_text" type="string"/>
+        <element label="前文" max_length="4000" name="u_pre_text" type="string"/>
+        <element label="末文" max_length="4000" name="u_last_text" type="string"/>
+        <element label="受任者3" max_length="32" name="u_appointee_3" reference="sys_user" type="reference"/>
+        <element label="承認レコード情報" max_length="32" name="u_approval_record_info" reference="sysapproval_approver" reference_qual="sysapprovalSTARTSWITHRINGI^EQ" reference_qual_condition="sysapprovalSTARTSWITHRINGI^EQ" type="reference"/>
+    </element>
+</database>

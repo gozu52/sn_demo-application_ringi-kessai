@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="topic">
+    <topic action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <apply_to_child_topics>false</apply_to_child_topics>
+        <banner_image/>
+        <banner_image_url/>
+        <description/>
+        <icon>7d6d906f1bd89210722ac91b234bcb6e</icon>
+        <icon_url/>
+        <name>Leave of absence</name>
+        <order>300</order>
+        <parent_topic display_value="Benefits">446d106f1bd89210722ac91b234bcb8a</parent_topic>
+        <sys_class_name>topic</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-03 10:01:43</sys_created_on>
+        <sys_id>3d6d906f1bd89210722ac91b234bcb6b</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Leave of absence</sys_name>
+        <sys_package display_value="RingiKessai" source="x_snc_ringikessai">f43965bc1b9c1610722ac91b234bcb1e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RingiKessai">f43965bc1b9c1610722ac91b234bcb1e</sys_scope>
+        <sys_update_name>topic_3d6d906f1bd89210722ac91b234bcb6b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-03 10:01:44</sys_updated_on>
+        <taxonomy display_value="稟議決裁">974d982f1bd89210722ac91b234bcb0b</taxonomy>
+        <template display_value="emp_taxonomy_topic">4fb26c9cc3d030102ec1a589a840ddbd</template>
+        <topic_based_navigation>false</topic_based_navigation>
+        <topic_contributor/>
+        <topic_manager/>
+        <topic_path>Human resources / Benefits / Leave of absence</topic_path>
+    </topic>
+    <sys_translated_text action="delete_multiple" query="documentkey=3d6d906f1bd89210722ac91b234bcb6b"/>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#c7c4be</average_image_color>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <encryption_context/>
+        <file_name>icon</file_name>
+        <hash>f530b687ed10a3169cfdd9c049ca20d305e5a54c19999901cf7002f5e946bdfd</hash>
+        <image_height>112</image_height>
+        <image_width>112</image_width>
+        <size_bytes>1570</size_bytes>
+        <size_compressed>1576</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-03 10:01:43</sys_created_on>
+        <sys_id>7d6d906f1bd89210722ac91b234bcb6e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-03 10:01:43</sys_updated_on>
+        <table_name>ZZ_YYtopic</table_name>
+        <table_sys_id>3d6d906f1bd89210722ac91b234bcb6b</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="icon" sys_id="7d6d906f1bd89210722ac91b234bcb6e">7d6d906f1bd89210722ac91b234bcb6e</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-03 10:01:43</sys_created_on>
+        <sys_id>b96d906f1bd89210722ac91b234bcb6f</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>2088</length>
+        <position>1</position>
+        <sys_attachment display_value="icon" sys_id="7d6d906f1bd89210722ac91b234bcb6e">7d6d906f1bd89210722ac91b234bcb6e</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-03 10:01:43</sys_created_on>
+        <sys_id>396d906f1bd89210722ac91b234bcb6f</sys_id>
+    </sys_attachment_doc>
+</record_update>

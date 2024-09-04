@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="topic">
+    <topic action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <apply_to_child_topics>false</apply_to_child_topics>
+        <banner_image/>
+        <banner_image_url/>
+        <description/>
+        <icon>f47d146f1bd89210722ac91b234bcbc2</icon>
+        <icon_url/>
+        <name>Career growth</name>
+        <order>300</order>
+        <parent_topic display_value="Career development">207d146f1bd89210722ac91b234bcb49</parent_topic>
+        <sys_class_name>topic</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-03 10:01:55</sys_created_on>
+        <sys_id>f87d146f1bd89210722ac91b234bcbbf</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Career growth</sys_name>
+        <sys_package display_value="RingiKessai" source="x_snc_ringikessai">f43965bc1b9c1610722ac91b234bcb1e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RingiKessai">f43965bc1b9c1610722ac91b234bcb1e</sys_scope>
+        <sys_update_name>topic_f87d146f1bd89210722ac91b234bcbbf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-03 10:01:56</sys_updated_on>
+        <taxonomy display_value="稟議決裁">974d982f1bd89210722ac91b234bcb0b</taxonomy>
+        <template display_value="emp_taxonomy_topic">4fb26c9cc3d030102ec1a589a840ddbd</template>
+        <topic_based_navigation>false</topic_based_navigation>
+        <topic_contributor/>
+        <topic_manager/>
+        <topic_path>Human resources / Career development / Career growth</topic_path>
+    </topic>
+    <sys_translated_text action="delete_multiple" query="documentkey=f87d146f1bd89210722ac91b234bcbbf"/>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#99617d</average_image_color>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <encryption_context/>
+        <file_name>icon</file_name>
+        <hash>14521641cc221976cad31919961941e347f94a5d7aa248d203c9cd5c858757af</hash>
+        <image_height>112</image_height>
+        <image_width>112</image_width>
+        <size_bytes>2315</size_bytes>
+        <size_compressed>2296</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-03 10:01:56</sys_created_on>
+        <sys_id>f47d146f1bd89210722ac91b234bcbc2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-03 10:01:56</sys_updated_on>
+        <table_name>ZZ_YYtopic</table_name>
+        <table_sys_id>f87d146f1bd89210722ac91b234bcbbf</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="icon" sys_id="f47d146f1bd89210722ac91b234bcbc2">f47d146f1bd89210722ac91b234bcbc2</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-03 10:01:56</sys_created_on>
+        <sys_id>f47d546f1bd89210722ac91b234bcb01</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>3048</length>
+        <position>1</position>
+        <sys_attachment display_value="icon" sys_id="f47d146f1bd89210722ac91b234bcbc2">f47d146f1bd89210722ac91b234bcbc2</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-03 10:01:56</sys_created_on>
+        <sys_id>b07d146f1bd89210722ac91b234bcbc3</sys_id>
+    </sys_attachment_doc>
+</record_update>

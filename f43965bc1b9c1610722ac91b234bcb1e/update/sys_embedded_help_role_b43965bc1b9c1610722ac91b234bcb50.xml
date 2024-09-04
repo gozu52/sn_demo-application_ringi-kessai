@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_snc_ringikessai.user" name="x_snc_ringikessai.user">f43965bc1b9c1610722ac91b234bcb4f</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-26 02:29:36</sys_created_on>
+        <sys_id>b43965bc1b9c1610722ac91b234bcb50</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>f43965bc1b9c1610722ac91b234bcb4f</sys_name>
+        <sys_package display_value="RingiKessai" source="x_snc_ringikessai">f43965bc1b9c1610722ac91b234bcb1e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RingiKessai">f43965bc1b9c1610722ac91b234bcb1e</sys_scope>
+        <sys_update_name>sys_embedded_help_role_b43965bc1b9c1610722ac91b234bcb50</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-26 02:29:36</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
