@@ -4,6 +4,7 @@
         <element label="詳細な計画" max_length="4000" name="u_detail_plan" type="string"/>
         <element label="背景と説明" max_length="4000" name="u_background_description" type="string"/>
         <element label="期待される効果" max_length="4000" name="u_expected_benefit" type="string"/>
+        <element default="1" label="ケース作成" max_length="255" name="u_created_case_num" type="integer"/>
         <element label="予算" max_length="40" name="u_budget" type="string"/>
         <element label="受任者2" max_length="32" name="u_appointee_2" reference="sys_user" type="reference"/>
         <element choice="3" label="ステータス" max_length="40" name="u_state_ringi" type="choice">

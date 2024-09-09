@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">b4bebd3874105610ed35dab009e6b5d7</canvas>
+        <component display_value="List - Simple">2b1c080881e05dc63b917044290b233f</component>
+        <component_props>{"table":"x_snc_ringikessai_ringi_table","fixedQuery":"","listTitle":"My Work","columns":"","query":"active=true^assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe","groupByField":"","hideViewAll":false,"hideHighlightedValues":false,"highlightedValueConfigId":"","hideHighlightContent":false,"highlightContent":{"patterns":[],"color":""},"hideLinks":false,"wordWrap":false,"overrideWordWrapUserPref":false,"maxCharLimit":4000,"hideEmptyStateImage":false,"hidePersonalization":true,"hideDotwalk":true,"hideColumnReorder":true,"hideRowSelector":false,"hideColumnGrouping":true,"hideColumnResizing":true,"hideColumnFiltering":true,"hideColumnSorting":false,"hideHeader":false,"hideTitle":false,"hideTitleRowCount":false,"hideLastRefreshedText":false,"hideRefreshButton":false,"hideInlineEditing":true,"noDebounce":""}</component_props>
+        <h>18</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-26 04:03:34</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f4bebd38df105610785ecdda58bb40d6</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="RingiKessai" source="x_snc_ringikessai">f43965bc1b9c1610722ac91b234bcb1e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RingiKessai">f43965bc1b9c1610722ac91b234bcb1e</sys_scope>
+        <sys_update_name>par_dashboard_widget_f4bebd38df105610785ecdda58bb40d6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-08 16:33:46</sys_updated_on>
+        <visualization/>
+        <w>1</w>
+        <widget_props/>
+        <x>0</x>
+        <y>20</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="RingiKessai">f43965bc1b9c1610722ac91b234bcb1e</application>
+        <file_path/>
+        <instance_id>c630d7ecdbd4465092f5684e139619cc</instance_id>
+        <instance_name>gozuwashingtondev</instance_name>
+        <name>par_dashboard_widget_f4bebd38df105610785ecdda58bb40d6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">b4bebd3874105610ed35dab009e6b5d7</canvas><component display_value="List - Simple">2b1c080881e05dc63b917044290b233f</component><component_props>{"table":"x_snc_ringikessai_ringi_table","fixedQuery":"","listTitle":"My Work","columns":"","query":"active=true^assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe","groupByField":"","hideViewAll":false,"hideHighlightedValues":false,"highlightedValueConfigId":"","hideHighlightContent":false,"highlightContent":{"patterns":[],"color":""},"hideLinks":false,"wordWrap":false,"overrideWordWrapUserPref":false,"maxCharLimit":4000,"hideEmptyStateImage":false,"hidePersonalization":true,"hideDotwalk":true,"hideColumnReorder":true,"hideRowSelector":false,"hideColumnGrouping":true,"hideColumnResizing":true,"hideColumnFiltering":true,"hideColumnSorting":false,"hideHeader":false,"hideTitle":false,"hideTitleRowCount":false,"hideLastRefreshedText":false,"hideRefreshButton":false,"hideInlineEditing":true,"noDebounce":""}</component_props><h>18</h><name/><stored_component/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-08-26 04:03:34</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>f4bebd38df105610785ecdda58bb40d6</sys_id><sys_mod_count>3</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="RingiKessai" source="x_snc_ringikessai">f43965bc1b9c1610722ac91b234bcb1e</sys_package><sys_policy/><sys_scope display_value="RingiKessai">f43965bc1b9c1610722ac91b234bcb1e</sys_scope><sys_update_name>par_dashboard_widget_f4bebd38df105610785ecdda58bb40d6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-08 16:33:46</sys_updated_on><visualization/><w>1</w><widget_props/><x>0</x><y>20</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>203578188</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>3ae5813f1bd01610722ac91b234bcb34</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-08 16:33:46</sys_created_on>
+        <sys_id>651767051b28da10722ac91b234bcb33</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>191d27bfdbe0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-08 16:33:46</sys_updated_on>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>e9176705d928da10844b573b70d1fa32</update_guid>
+        <update_guid_history>e9176705d928da10844b573b70d1fa32:203578188,3854e7011b28da10bb82952c7a2e4a42:-821115733,1ebe3178371056104400b26708413f47:355683863,debe31786b1056109d7ac2aa21ec2b45:692508724</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">de08ab451b28da10722ac91b234bcb9b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-08 16:37:55</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>00125220fa2a4a008000015ab69b7c40</sys_id>
+        <sys_metadata>f4bebd38df105610785ecdda58bb40d6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="RingiKessai" source="x_snc_ringikessai">f43965bc1b9c1610722ac91b234bcb1e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="RingiKessai">f43965bc1b9c1610722ac91b234bcb1e</sys_scope>
+        <sys_scope_delete display_value="">48878aa946d24abb97359892e501ca81</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_f4bebd38df105610785ecdda58bb40d6</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_f4bebd38df105610785ecdda58bb40d6">651767051b28da10722ac91b234bcb33</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-08 16:37:55</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
