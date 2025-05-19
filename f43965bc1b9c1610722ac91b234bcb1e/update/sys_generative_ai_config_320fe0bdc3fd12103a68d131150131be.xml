@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_generative_ai_config">
+    <sys_generative_ai_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <additional_configurations>{"skill_config_id":"cb0f24bdc3fd12103a68d1311501310c"}</additional_configurations>
+        <ai_suggested>false</ai_suggested>
+        <definition>720fe0bdc3fd12103a68d131150131a1</definition>
+        <definition_table>sys_one_extend_capability_definition</definition_table>
+        <max_tokens>1000</max_tokens>
+        <min_word_count>-1</min_word_count>
+        <model>llm_generic</model>
+        <name>Ringi Summary</name>
+        <parent/>
+        <prompt>あなたは稟議決裁の担当者です。
+ {{ringi_table}} の内容を500字以内で要約してください。
+その際にToDoとして考えられるものがあれば、先頭に✅をつけて記載してください。
+要約するための項目として下記が与えられます。
+
+前文:  {{ringi_table.u_pre_text}} 
+主文:  {{ringi_table.u_main_text}} 
+末文:  {{ringi_table.u_last_text}} </prompt>
+        <prompt_template_role>user</prompt_template_role>
+        <request_tokens>15134</request_tokens>
+        <show_in_prompt_library>true</show_in_prompt_library>
+        <state>published</state>
+        <sys_class_name>sys_generative_ai_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-11 14:23:37</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>320fe0bdc3fd12103a68d131150131be</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>720fe0bdc3fd12103a68d131150131a1</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="RingiKessai" source="x_snc_ringikessai">f43965bc1b9c1610722ac91b234bcb1e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RingiKessai">f43965bc1b9c1610722ac91b234bcb1e</sys_scope>
+        <sys_update_name>sys_generative_ai_config_320fe0bdc3fd12103a68d131150131be</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-11 14:41:16</sys_updated_on>
+        <temperature>0.2</temperature>
+        <version>1</version>
+    </sys_generative_ai_config>
+</record_update>

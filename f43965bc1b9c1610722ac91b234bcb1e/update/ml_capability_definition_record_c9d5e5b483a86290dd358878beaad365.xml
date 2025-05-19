@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="ml_capability_definition_record">
+    <ml_capability_definition_record action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <capability display_value="Process Mining Record trainer">184783776b6201104e6fe1188e44af36</capability>
+        <current_solution_version>1</current_solution_version>
+        <dataset_language>en</dataset_language>
+        <fields/>
+        <filter/>
+        <pretrained>false</pretrained>
+        <request_source>api</request_source>
+        <solution_label>process_optimization_ASIib</solution_label>
+        <solution_name>ml_x_snc_x_snc_ringikessai_global_process_optimization_asiib</solution_name>
+        <solution_parameters/>
+        <solution_properties>{"limit":3600,"pageCount":1,"pageSize":900,"scheduledTaskId":"85d5a5782b20229091cffd80de91bffb","startTime":"2025-03-25T08:41:43.817622920Z","userName":"admin","versionId":"3855a9382b20229091cffd80de91bf50"}</solution_properties>
+        <stopwords>a6282a25533333008c5bddeeff7b12c3</stopwords>
+        <sys_class_name>ml_capability_definition_record</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-25 08:41:43</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c9d5e5b483a86290dd358878beaad365</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>process_optimization_ASIib</sys_name>
+        <sys_package display_value="RingiKessai" source="x_snc_ringikessai">f43965bc1b9c1610722ac91b234bcb1e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RingiKessai">f43965bc1b9c1610722ac91b234bcb1e</sys_scope>
+        <sys_update_name>ml_capability_definition_record_c9d5e5b483a86290dd358878beaad365</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-25 08:41:43</sys_updated_on>
+        <table>x_snc_ringikessai_ringi_table</table>
+        <training_frequency>run_once</training_frequency>
+        <triggered_source>API</triggered_source>
+        <word_vector_corpus/>
+    </ml_capability_definition_record>
+</record_update>

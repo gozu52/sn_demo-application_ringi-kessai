@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysevent_email_template">
+    <sysevent_email_template action="INSERT_OR_UPDATE">
+        <collection>sysapproval_approver</collection>
+        <email_layout display_value="Unsubscribe and Preferences">1410041f3b0b2200c869c2c703efc41e</email_layout>
+        <message/>
+        <message_html><![CDATA[<div>件名: ${sysapproval.short_description}</div>
+<div>起案者: ${sysapproval.opened_by.name}</div>
+<div>
+<div><hr /></div>
+</div>
+<div>${mail_script:change_request_summary}</div>
+<div>&nbsp;</div>
+<div>申請の概要:</div>
+<div>${sysapproval.description}</div>
+<div>
+<div><hr /></div>
+</div>
+<div>承認: ${mailto:mailto.approval}</div>
+<div><hr /></div>
+<div>否認: ${mailto:mailto.rejection}</div>
+<div>
+<div><hr /></div>
+</div>
+<div>承認アクティビティ:</div>
+<div>${mail_script:approval_activity}</div>
+<div>
+<div><hr /></div>
+</div>
+<div>承認リクエストを確認: ${URI+&amp;sysparm_record_target=sysapproval_approver}</div>
+<div>起案情報の確認: ${sysapproval.URI}</div>]]></message_html>
+        <message_list/>
+        <message_text/>
+        <name>Approval Template for Ringi</name>
+        <sms_alternate/>
+        <subject>${sysapproval.sys_class_name} ${sysapproval} 稟議承認依頼</subject>
+        <sys_class_name>sysevent_email_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-24 10:20:01</sys_created_on>
+        <sys_id>5e6a241a1bf81e10722ac91b234bcbe3</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>Approval Template for Ringi</sys_name>
+        <sys_package display_value="RingiKessai" source="x_snc_ringikessai">f43965bc1b9c1610722ac91b234bcb1e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RingiKessai">f43965bc1b9c1610722ac91b234bcb1e</sys_scope>
+        <sys_update_name>sysevent_email_template_5e6a241a1bf81e10722ac91b234bcbe3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-25 08:13:35</sys_updated_on>
+        <sys_version>2</sys_version>
+    </sysevent_email_template>
+</record_update>

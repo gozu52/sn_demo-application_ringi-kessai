@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_one_extend_capability_definition">
+    <sys_one_extend_capability_definition action="INSERT_OR_UPDATE">
+        <advanced>false</advanced>
+        <api>936e514a53b3b110f028ddeeff7b128c</api>
+        <api_type>sys_hub_flow</api_type>
+        <capability display_value="Generate Summary">620fe87dc3fd12103a68d13115013135</capability>
+        <category display_value="Other">04c489f3532121106b38ddeeff7b1215</category>
+        <connection display_value="sn_generative_ai.Now_LLM">4e85d828777721105de60f207b5a9906</connection>
+        <description/>
+        <filter_properties>{"provider":"Now LLM GenericNow LLM Generic"}</filter_properties>
+        <metadata/>
+        <name>Generate Summary</name>
+        <order>0</order>
+        <postprocessor><![CDATA[(function(outputs) {     	/* write code here to transform definition output to capability output.*/     	     	outputs = JSON.parse(outputs);     	     	return outputs;     })(outputs);]]></postprocessor>
+        <preprocessor><![CDATA[(function(inputs) {     	/* write code here to transform capability input to definition input.*/     	     	inputs = JSON.parse(inputs);     	     	return inputs;     })(inputs);]]></preprocessor>
+        <sys_class_name>sys_one_extend_capability_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-11 14:23:36</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>720fe0bdc3fd12103a68d131150131a1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Generate Summary</sys_name>
+        <sys_package display_value="RingiKessai" source="x_snc_ringikessai">f43965bc1b9c1610722ac91b234bcb1e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RingiKessai">f43965bc1b9c1610722ac91b234bcb1e</sys_scope>
+        <sys_update_name>sys_one_extend_capability_definition_720fe0bdc3fd12103a68d131150131a1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-11 14:23:36</sys_updated_on>
+        <truncate_strategy display_value="Default Truncation Strategy">2b99e1137fb20210f465c3b76d86650d</truncate_strategy>
+    </sys_one_extend_capability_definition>
+    <sys_translated_text action="delete_multiple" query="documentkey=720fe0bdc3fd12103a68d131150131a1"/>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>720fe0bdc3fd12103a68d131150131a1</documentkey>
+        <fieldname>description</fieldname>
+        <language>ja</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-11 14:23:37</sys_created_on>
+        <sys_id>720fe0bdc3fd12103a68d131150131a3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-11 14:23:37</sys_updated_on>
+        <tablename>sys_one_extend_capability_definition</tablename>
+        <value/>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>720fe0bdc3fd12103a68d131150131a1</documentkey>
+        <fieldname>name</fieldname>
+        <language>ja</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-11 14:23:37</sys_created_on>
+        <sys_id>3a0fe0bdc3fd12103a68d131150131b2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-11 14:23:37</sys_updated_on>
+        <tablename>sys_one_extend_capability_definition</tablename>
+        <value>Generate Summary</value>
+    </sys_translated_text>
+</record_update>

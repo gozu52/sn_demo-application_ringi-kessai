@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_one_extend_definition_attribute">
+    <sys_one_extend_definition_attribute action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <advanced>false</advanced>
+        <apply_filter>false</apply_filter>
+        <attribute_label/>
+        <capability display_value="Generate Summary">620fe87dc3fd12103a68d13115013135</capability>
+        <choice_list/>
+        <contains_large_input>false</contains_large_input>
+        <data_type>string</data_type>
+        <default_value/>
+        <definition/>
+        <description>Error Code</description>
+        <group/>
+        <hidden>false</hidden>
+        <info/>
+        <label>errorCode</label>
+        <mandatory>false</mandatory>
+        <name>errorcode</name>
+        <order/>
+        <schema/>
+        <sys_class_name>sys_one_extend_definition_attribute</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-11 14:23:37</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8b0fe0bdc3fd12103a68d131150131d1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>errorcode</sys_name>
+        <sys_package display_value="RingiKessai" source="x_snc_ringikessai">f43965bc1b9c1610722ac91b234bcb1e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RingiKessai">f43965bc1b9c1610722ac91b234bcb1e</sys_scope>
+        <sys_update_name>sys_one_extend_definition_attribute_8b0fe0bdc3fd12103a68d131150131d1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-11 14:23:37</sys_updated_on>
+        <translate>false</translate>
+        <truncate>false</truncate>
+        <type>output</type>
+        <user_query>false</user_query>
+    </sys_one_extend_definition_attribute>
+    <sys_translated_text action="delete_multiple" query="documentkey=8b0fe0bdc3fd12103a68d131150131d1"/>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>8b0fe0bdc3fd12103a68d131150131d1</documentkey>
+        <fieldname>attribute_label</fieldname>
+        <language>ja</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-11 14:23:37</sys_created_on>
+        <sys_id>c30fe0bdc3fd12103a68d131150131e5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-11 14:23:37</sys_updated_on>
+        <tablename>sys_one_extend_definition_attribute</tablename>
+        <value/>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>8b0fe0bdc3fd12103a68d131150131d1</documentkey>
+        <fieldname>description</fieldname>
+        <language>ja</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-11 14:23:37</sys_created_on>
+        <sys_id>830fe0bdc3fd12103a68d131150131d2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-11 14:23:37</sys_updated_on>
+        <tablename>sys_one_extend_definition_attribute</tablename>
+        <value>Error Code</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>8b0fe0bdc3fd12103a68d131150131d1</documentkey>
+        <fieldname>info</fieldname>
+        <language>ja</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-11 14:23:37</sys_created_on>
+        <sys_id>870fe0bdc3fd12103a68d131150131d4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-11 14:23:37</sys_updated_on>
+        <tablename>sys_one_extend_definition_attribute</tablename>
+        <value/>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>8b0fe0bdc3fd12103a68d131150131d1</documentkey>
+        <fieldname>label</fieldname>
+        <language>ja</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-11 14:23:37</sys_created_on>
+        <sys_id>4b0fe0bdc3fd12103a68d131150131d6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-11 14:23:37</sys_updated_on>
+        <tablename>sys_one_extend_definition_attribute</tablename>
+        <value>errorCode</value>
+    </sys_translated_text>
+</record_update>
