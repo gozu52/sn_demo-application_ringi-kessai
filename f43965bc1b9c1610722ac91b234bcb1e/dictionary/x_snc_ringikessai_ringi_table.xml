@@ -1,12 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element audit="true" db_object_id="2e79e9bc1b9c1610722ac91b234bcb95" extends="task" label="ringi_table" max_length="40" name="x_snc_ringikessai_ringi_table" text_index="true" type="collection">
+    <element audit="true" db_object_id="2e79e9bc1b9c1610722ac91b234bcb95" extends="task" label="稟議決裁テーブル" max_length="40" name="x_snc_ringikessai_ringi_table" text_index="true" type="collection">
         <element label="起案者" max_length="32" name="u_kian_user" reference="sys_user" type="reference"/>
+        <element choice="1" label="予定予算帯" max_length="40" name="u_prebudget" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="から100万円未満" language="ja" sequence="0" value="u_prebudget_0"/>
+                <element inactive_on_update="false" label="3000万円以上5000万円未満" language="ja" sequence="4" value="u_prebudget_5"/>
+                <element inactive_on_update="false" label="100万円から500万円未満" language="ja" sequence="1" value="u_prebudget_1"/>
+                <element inactive_on_update="false" label="5000万円以上1億円未満" language="ja" sequence="5" value="u_prebudget_6"/>
+                <element inactive_on_update="false" label="500万円から1000万円未満" language="ja" sequence="2" value="u_prebudget_2"/>
+                <element inactive_on_update="false" label="1億円以上3億円未満" language="ja" sequence="6" value="u_prebudget_7"/>
+                <element inactive_on_update="false" label="1000万円以上3000万円未満" language="ja" sequence="3" value="u_prebudget_3"/>
+                <element inactive_on_update="false" label="3億円以上" language="ja" sequence="7" value="u_prebudget_8"/>
+            </choice>
+        </element>
         <element label="詳細な計画" max_length="4000" name="u_detail_plan" type="string"/>
         <element label="背景と説明" max_length="4000" name="u_background_description" type="string"/>
         <element label="期待される効果" max_length="4000" name="u_expected_benefit" type="string"/>
         <element default="1" label="ケース作成" max_length="255" name="u_created_case_num" type="integer"/>
-        <element label="予算" max_length="40" name="u_budget" type="string"/>
+        <element label="予定予算" max_length="40" name="u_budget" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="3000万以上5000万未満" sequence="4" value="u_budget_4"/>
+                <element inactive_on_update="false" label="100万円以上500万未満" sequence="1" value="u_budget_1"/>
+                <element inactive_on_update="false" label="5000万以上1億円未満" sequence="5" value="u_budget_5"/>
+                <element inactive_on_update="false" label="500万円以上1000万未満" sequence="2" value="u_budget_2"/>
+                <element inactive_on_update="false" label="1億円以上5億円未満" sequence="6" value="u_budget_6"/>
+                <element inactive_on_update="false" label="〜100万円未満" sequence="0" value="u_budget_0"/>
+                <element inactive_on_update="false" label="1000万以上3000万未満" sequence="3" value="u_budget_3"/>
+                <element inactive_on_update="false" label="5億円以上" sequence="7" value="u_budget_7"/>
+            </choice>
+        </element>
         <element label="受任者2" max_length="32" name="u_appointee_2" reference="sys_user" type="reference"/>
+        <element label="稟議要約" max_length="4000" name="u_ringi_summary" type="string"/>
         <element choice="3" label="ステータス" max_length="40" name="u_state_ringi" type="choice">
             <choice>
                 <element inactive_on_update="false" label="上長承認" sequence="2" value="u_state_ringi_3"/>
@@ -22,6 +46,8 @@
         <element label="主文" max_length="4000" name="u_main_text" type="string"/>
         <element label="前文" max_length="4000" name="u_pre_text" type="string"/>
         <element label="末文" max_length="4000" name="u_last_text" type="string"/>
+        <element label="関連プロジェクト" max_length="40" name="u_related_project" type="string"/>
+        <element label="契約タイプ" max_length="40" name="u_contract_type" type="string"/>
         <element label="受任者3" max_length="32" name="u_appointee_3" reference="sys_user" type="reference"/>
         <element label="承認レコード情報" max_length="32" name="u_approval_record_info" reference="sysapproval_approver" reference_qual="sysapprovalSTARTSWITHRINGI^EQ" reference_qual_condition="sysapprovalSTARTSWITHRINGI^EQ" type="reference"/>
     </element>

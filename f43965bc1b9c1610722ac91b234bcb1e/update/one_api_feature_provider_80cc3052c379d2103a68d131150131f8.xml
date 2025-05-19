@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="one_api_feature_provider">
+    <one_api_feature_provider action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <feature display_value="a7298d4a43847110fb6e925caab8f25d">7fbc3052c379d2103a68d131150131e7</feature>
+        <feature_service display_value="OneExtendGenericProvider">5233278353111110c271ddeeff7b129b</feature_service>
+        <feature_service_factory><![CDATA[(function() { return new global.OneExtendGenericProvider(); })()]]></feature_service_factory>
+        <name>Text2Flow provider</name>
+        <short_description>Auto Generated </short_description>
+        <sys_class_name>one_api_feature_provider</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-13 04:40:27</sys_created_on>
+        <sys_id>80cc3052c379d2103a68d131150131f8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Text2Flow provider</sys_name>
+        <sys_package display_value="RingiKessai" source="x_snc_ringikessai">f43965bc1b9c1610722ac91b234bcb1e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RingiKessai">f43965bc1b9c1610722ac91b234bcb1e</sys_scope>
+        <sys_update_name>one_api_feature_provider_80cc3052c379d2103a68d131150131f8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-13 04:40:27</sys_updated_on>
+        <type>FDIH Subflow</type>
+        <type_document display_value="Now LLM Text2Flow">c339b88a43447110fb6e925caab8f2c9</type_document>
+    </one_api_feature_provider>
+</record_update>

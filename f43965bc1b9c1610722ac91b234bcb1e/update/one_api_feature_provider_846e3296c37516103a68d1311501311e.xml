@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="one_api_feature_provider">
+    <one_api_feature_provider action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <feature display_value="7faaa1b453b32110c271ddeeff7b129b">086e3296c37516103a68d1311501311a</feature>
+        <feature_service display_value="OneExtendGenericProvider">5233278353111110c271ddeeff7b129b</feature_service>
+        <feature_service_factory><![CDATA[(function() { return new global.OneExtendGenericProvider(); })()]]></feature_service_factory>
+        <name>コード補完 provider</name>
+        <short_description>Auto Generated </short_description>
+        <sys_class_name>one_api_feature_provider</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-13 14:06:48</sys_created_on>
+        <sys_id>846e3296c37516103a68d1311501311e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>コード補完 provider</sys_name>
+        <sys_package display_value="RingiKessai" source="x_snc_ringikessai">f43965bc1b9c1610722ac91b234bcb1e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RingiKessai">f43965bc1b9c1610722ac91b234bcb1e</sys_scope>
+        <sys_update_name>one_api_feature_provider_846e3296c37516103a68d1311501311e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-13 14:06:48</sys_updated_on>
+        <type>FDIH Subflow</type>
+        <type_document display_value="Now LLM Code">b5f7e9b053b32110c271ddeeff7b1240</type_document>
+    </one_api_feature_provider>
+</record_update>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_form_action">
+    <sys_ux_form_action action="INSERT_OR_UPDATE">
+        <action_type>ui_action</action_type>
+        <active>true</active>
+        <declarative_action/>
+        <description/>
+        <name>Generate Summary</name>
+        <specificity>20</specificity>
+        <sys_class_name>sys_ux_form_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-11 14:40:12</sys_created_on>
+        <sys_id>39d2b4f1c33152103a68d13115013178</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Generate Summary</sys_name>
+        <sys_package display_value="RingiKessai" source="x_snc_ringikessai">f43965bc1b9c1610722ac91b234bcb1e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RingiKessai">f43965bc1b9c1610722ac91b234bcb1e</sys_scope>
+        <sys_update_name>sys_ux_form_action_39d2b4f1c33152103a68d13115013178</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-11 14:40:12</sys_updated_on>
+        <table>x_snc_ringikessai_ringi_table</table>
+        <ui_action display_value="Generate Summary">7dd2b4f1c33152103a68d13115013174</ui_action>
+    </sys_ux_form_action>
+    <sys_translated_text action="delete_multiple" query="documentkey=39d2b4f1c33152103a68d13115013178"/>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>39d2b4f1c33152103a68d13115013178</documentkey>
+        <fieldname>name</fieldname>
+        <language>ja</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-11 14:40:12</sys_created_on>
+        <sys_id>f5d2b4f1c33152103a68d13115013179</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-11 14:40:12</sys_updated_on>
+        <tablename>sys_ux_form_action</tablename>
+        <value>Generate Summary</value>
+    </sys_translated_text>
+</record_update>

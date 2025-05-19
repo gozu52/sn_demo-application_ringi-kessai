@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_gen_ai_strategy_mapping">
+    <sys_gen_ai_strategy_mapping action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <feature display_value="Generate Summary">360fe0bdc3fd12103a68d1311501319b</feature>
+        <strategy>CAPABILITY_EXECUTION</strategy>
+        <sys_class_name>sys_gen_ai_strategy_mapping</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-11 14:23:36</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>be0fe0bdc3fd12103a68d1311501319d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CAPABILITY_EXECUTION</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="RingiKessai" source="x_snc_ringikessai">f43965bc1b9c1610722ac91b234bcb1e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RingiKessai">f43965bc1b9c1610722ac91b234bcb1e</sys_scope>
+        <sys_update_name>sys_gen_ai_strategy_mapping_be0fe0bdc3fd12103a68d1311501319d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-11 14:23:36</sys_updated_on>
+    </sys_gen_ai_strategy_mapping>
+</record_update>

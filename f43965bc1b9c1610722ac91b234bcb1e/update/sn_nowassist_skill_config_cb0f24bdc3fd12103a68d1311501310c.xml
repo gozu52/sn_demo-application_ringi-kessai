@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_nowassist_skill_config">
+    <sn_nowassist_skill_config action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <description/>
+        <edited_in_nask>false</edited_in_nask>
+        <in_product_active>false</in_product_active>
+        <in_product_roles/>
+        <is_template>false</is_template>
+        <name>Generate Summary</name>
+        <nap_skill_applicability/>
+        <order>100</order>
+        <parent/>
+        <skill_family display_value="Other">a5efaf1c93764210aa5730f16489186d</skill_family>
+        <skill_id>620fe87dc3fd12103a68d13115013135</skill_id>
+        <skill_table>sys_one_extend_capability</skill_table>
+        <state>1</state>
+        <success_message/>
+        <sys_class_name>sn_nowassist_skill_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-11 14:23:38</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>cb0f24bdc3fd12103a68d1311501310c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Generate Summary</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="RingiKessai" source="x_snc_ringikessai">f43965bc1b9c1610722ac91b234bcb1e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RingiKessai">f43965bc1b9c1610722ac91b234bcb1e</sys_scope>
+        <sys_update_name>sn_nowassist_skill_config_cb0f24bdc3fd12103a68d1311501310c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-11 14:41:16</sys_updated_on>
+    </sn_nowassist_skill_config>
+    <sys_translated_text action="delete_multiple" query="documentkey=cb0f24bdc3fd12103a68d1311501310c"/>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>cb0f24bdc3fd12103a68d1311501310c</documentkey>
+        <fieldname>description</fieldname>
+        <language>ja</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-11 14:23:38</sys_created_on>
+        <sys_id>470f24bdc3fd12103a68d1311501310d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-11 14:23:38</sys_updated_on>
+        <tablename>sn_nowassist_skill_config</tablename>
+        <value/>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>cb0f24bdc3fd12103a68d1311501310c</documentkey>
+        <fieldname>success_message</fieldname>
+        <language>ja</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-11 14:23:38</sys_created_on>
+        <sys_id>0b0f24bdc3fd12103a68d1311501310f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-11 14:23:38</sys_updated_on>
+        <tablename>sn_nowassist_skill_config</tablename>
+        <value/>
+    </sys_translated_text>
+</record_update>

@@ -2,17 +2,31 @@
     <sys_ui_related sys_domain="global" table="x_snc_ringikessai_ringi_table" version="2" view="workspace-ringikessai-workspace-0">
         <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
             <filter/>
-            <list_id display_value="ringi_table - Workspace RingiKessai Workspace 0" name="x_snc_ringikessai_ringi_table" related_list="NULL" sys_domain="global" view="b0bebd384810561039a18d43c43f3dc8">52ccbb9f1bd49210722ac91b234bcbe2</list_id>
+            <list_id display_value="ringi_table - Workspace RingiKessai Workspace 0" name="x_snc_ringikessai_ringi_table" related_list="NULL" sys_domain="global" view="b0bebd384810561039a18d43c43f3dc8">b923a0271b3c925033151f0b234bcb6c</list_id>
             <order_by/>
             <position>0</position>
             <related_list>sysapproval_approver.sysapproval</related_list>
             <sys_class_name>sys_ui_related_list_entry</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-09-03 07:39:13</sys_created_on>
-            <sys_id>deccbb9f1bd49210722ac91b234bcbe2</sys_id>
+            <sys_created_on>2024-09-28 06:58:15</sys_created_on>
+            <sys_id>f523a0271b3c925033151f0b234bcb6d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-09-03 07:39:13</sys_updated_on>
+            <sys_updated_on>2024-09-28 06:58:15</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="ringi_table - Workspace RingiKessai Workspace 0" name="x_snc_ringikessai_ringi_table" related_list="NULL" sys_domain="global" view="b0bebd384810561039a18d43c43f3dc8">b923a0271b3c925033151f0b234bcb6c</list_id>
+            <order_by/>
+            <position>1</position>
+            <related_list>task.parent</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-28 06:58:15</sys_created_on>
+            <sys_id>f923a0271b3c925033151f0b234bcb6d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-28 06:58:15</sys_updated_on>
         </sys_ui_related_list_entry>
         <sys_ui_related_list action="INSERT_OR_UPDATE">
             <calculated_name>ringi_table - Workspace RingiKessai Workspace 0</calculated_name>
@@ -23,10 +37,10 @@
             <related_list/>
             <sys_class_name>sys_ui_related_list</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-09-03 07:39:13</sys_created_on>
+            <sys_created_on>2024-09-28 06:58:15</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>52ccbb9f1bd49210722ac91b234bcbe2</sys_id>
+            <sys_id>b923a0271b3c925033151f0b234bcb6c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>ringi_table - Workspace RingiKessai Workspace 0</sys_name>
             <sys_package display_value="RingiKessai" source="x_snc_ringikessai">f43965bc1b9c1610722ac91b234bcb1e</sys_package>
@@ -34,7 +48,7 @@
             <sys_scope display_value="RingiKessai">f43965bc1b9c1610722ac91b234bcb1e</sys_scope>
             <sys_update_name>sys_ui_related_x_snc_ringikessai_ringi_table_workspace-ringikessai-workspace-0</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-09-03 07:39:13</sys_updated_on>
+            <sys_updated_on>2024-09-28 06:58:15</sys_updated_on>
             <sys_user/>
             <view display_value="Workspace RingiKessai Workspace 0" name="workspace-ringikessai-workspace-0">b0bebd384810561039a18d43c43f3dc8</view>
             <view_name/>

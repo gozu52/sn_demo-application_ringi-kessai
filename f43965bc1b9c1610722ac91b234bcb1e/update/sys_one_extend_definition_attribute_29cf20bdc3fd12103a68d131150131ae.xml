@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_one_extend_definition_attribute">
+    <sys_one_extend_definition_attribute action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <advanced>false</advanced>
+        <apply_filter>false</apply_filter>
+        <attribute_label/>
+        <capability display_value="Generate Summary">620fe87dc3fd12103a68d13115013135</capability>
+        <choice_list/>
+        <contains_large_input>false</contains_large_input>
+        <data_type>glide_record</data_type>
+        <default_value/>
+        <definition/>
+        <description/>
+        <group/>
+        <hidden>false</hidden>
+        <info/>
+        <label>ringi table</label>
+        <mandatory>true</mandatory>
+        <name>ringi_table</name>
+        <order/>
+        <schema>{"tableName":"x_snc_ringikessai_ringi_table","sysId":"16a4cf411b64da10722ac91b234bcb8e"}</schema>
+        <sys_class_name>sys_one_extend_definition_attribute</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-11 14:26:48</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>29cf20bdc3fd12103a68d131150131ae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ringi_table</sys_name>
+        <sys_package display_value="RingiKessai" source="x_snc_ringikessai">f43965bc1b9c1610722ac91b234bcb1e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RingiKessai">f43965bc1b9c1610722ac91b234bcb1e</sys_scope>
+        <sys_update_name>sys_one_extend_definition_attribute_29cf20bdc3fd12103a68d131150131ae</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-11 14:26:48</sys_updated_on>
+        <translate>false</translate>
+        <truncate>false</truncate>
+        <type>input</type>
+        <user_query>false</user_query>
+    </sys_one_extend_definition_attribute>
+    <sys_translated_text action="delete_multiple" query="documentkey=29cf20bdc3fd12103a68d131150131ae"/>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>29cf20bdc3fd12103a68d131150131ae</documentkey>
+        <fieldname>attribute_label</fieldname>
+        <language>ja</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-11 14:26:48</sys_created_on>
+        <sys_id>edcfa4fdc3fd12103a68d13115013154</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-11 14:26:48</sys_updated_on>
+        <tablename>sys_one_extend_definition_attribute</tablename>
+        <value/>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>29cf20bdc3fd12103a68d131150131ae</documentkey>
+        <fieldname>description</fieldname>
+        <language>ja</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-11 14:26:48</sys_created_on>
+        <sys_id>21cfa4fdc3fd12103a68d1311501314e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-11 14:26:48</sys_updated_on>
+        <tablename>sys_one_extend_definition_attribute</tablename>
+        <value/>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>29cf20bdc3fd12103a68d131150131ae</documentkey>
+        <fieldname>info</fieldname>
+        <language>ja</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-11 14:26:48</sys_created_on>
+        <sys_id>69cfa4fdc3fd12103a68d13115013150</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-11 14:26:48</sys_updated_on>
+        <tablename>sys_one_extend_definition_attribute</tablename>
+        <value/>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>29cf20bdc3fd12103a68d131150131ae</documentkey>
+        <fieldname>label</fieldname>
+        <language>ja</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-11 14:26:48</sys_created_on>
+        <sys_id>2dcfa4fdc3fd12103a68d13115013152</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-11 14:26:48</sys_updated_on>
+        <tablename>sys_one_extend_definition_attribute</tablename>
+        <value>ringi table</value>
+    </sys_translated_text>
+</record_update>

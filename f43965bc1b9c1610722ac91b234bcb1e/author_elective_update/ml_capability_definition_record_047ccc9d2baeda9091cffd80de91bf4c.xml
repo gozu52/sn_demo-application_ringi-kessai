@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="ml_capability_definition_record">
+    <ml_capability_definition_record action="DELETE">
+        <active>true</active>
+        <capability display_value="Process Mining Record trainer">184783776b6201104e6fe1188e44af36</capability>
+        <current_solution_version/>
+        <dataset_language>en</dataset_language>
+        <fields/>
+        <filter/>
+        <pretrained>false</pretrained>
+        <request_source>api</request_source>
+        <solution_label>process_optimization_IakLq</solution_label>
+        <solution_name>ml_x_snc_x_snc_ringikessai_global_process_optimization_iaklq</solution_name>
+        <solution_parameters/>
+        <solution_properties>{"limit":3600,"pageCount":1,"pageSize":900,"scheduledTaskId":"376c8c9d2baeda9091cffd80de91bfdf","startTime":"2024-12-17T05:22:33.754870625Z","userName":"admin","versionId":"8bb82ba72b1ed29091cffd80de91bffb"}</solution_properties>
+        <stopwords>a6282a25533333008c5bddeeff7b12c3</stopwords>
+        <sys_class_name>ml_capability_definition_record</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-17 05:22:33</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>047ccc9d2baeda9091cffd80de91bf4c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>process_optimization_IakLq</sys_name>
+        <sys_package display_value="RingiKessai" source="x_snc_ringikessai">f43965bc1b9c1610722ac91b234bcb1e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RingiKessai">f43965bc1b9c1610722ac91b234bcb1e</sys_scope>
+        <sys_update_name>ml_capability_definition_record_047ccc9d2baeda9091cffd80de91bf4c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-17 05:22:33</sys_updated_on>
+        <table>x_snc_ringikessai_ringi_table</table>
+        <training_frequency>run_once</training_frequency>
+        <triggered_source>API</triggered_source>
+        <word_vector_corpus/>
+    </ml_capability_definition_record>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="RingiKessai">f43965bc1b9c1610722ac91b234bcb1e</application>
+        <file_path/>
+        <instance_id>c630d7ecdbd4465092f5684e139619cc</instance_id>
+        <instance_name>gozuwashingtondev</instance_name>
+        <name>ml_capability_definition_record_047ccc9d2baeda9091cffd80de91bf4c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="ml_capability_definition_record"><ml_capability_definition_record action="INSERT_OR_UPDATE"><active>true</active><capability display_value="Process Mining Record trainer">184783776b6201104e6fe1188e44af36</capability><current_solution_version/><dataset_language>en</dataset_language><fields/><filter/><pretrained>false</pretrained><request_source>api</request_source><solution_label>process_optimization_IakLq</solution_label><solution_name>ml_x_snc_x_snc_ringikessai_global_process_optimization_iaklq</solution_name><solution_parameters/><solution_properties>{"limit":3600,"pageCount":1,"pageSize":900,"scheduledTaskId":"376c8c9d2baeda9091cffd80de91bfdf","startTime":"2024-12-17T05:22:33.754870625Z","userName":"admin","versionId":"8bb82ba72b1ed29091cffd80de91bffb"}</solution_properties><stopwords>a6282a25533333008c5bddeeff7b12c3</stopwords><sys_class_name>ml_capability_definition_record</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-12-17 05:22:33</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>047ccc9d2baeda9091cffd80de91bf4c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>process_optimization_IakLq</sys_name><sys_package display_value="RingiKessai" source="x_snc_ringikessai">f43965bc1b9c1610722ac91b234bcb1e</sys_package><sys_policy/><sys_scope display_value="RingiKessai">f43965bc1b9c1610722ac91b234bcb1e</sys_scope><sys_update_name>ml_capability_definition_record_047ccc9d2baeda9091cffd80de91bf4c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-12-17 05:22:33</sys_updated_on><table>x_snc_ringikessai_ringi_table</table><training_frequency>run_once</training_frequency><triggered_source>API</triggered_source><word_vector_corpus/></ml_capability_definition_record></record_update>]]></payload>
+        <payload_hash>811379907</payload_hash>
+        <record_name>process_optimization_IakLq</record_name>
+        <reverted_from/>
+        <source>3ae5813f1bd01610722ac91b234bcb34</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-17 05:22:33</sys_created_on>
+        <sys_id>c47ccc9d2baeda9091cffd80de91bf50</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>193d31168ef0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-17 05:22:33</sys_updated_on>
+        <type>Process Mining Record Definition</type>
+        <update_guid>087ccc9d5aaeda9067f0f6583127e94f</update_guid>
+        <update_guid_history>087ccc9d5aaeda9067f0f6583127e94f:811379907</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="process_optimization_IakLq">a88169f02b20229091cffd80de91bf13</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-25 08:22:50</sys_created_on>
+        <sys_db_object display_value="" name="ml_capability_definition_record">ml_capability_definition_record</sys_db_object>
+        <sys_id>c529f46413784f8c9c1cced8edb65a90</sys_id>
+        <sys_metadata>047ccc9d2baeda9091cffd80de91bf4c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>process_optimization_IakLq</sys_name>
+        <sys_package display_value="RingiKessai" source="x_snc_ringikessai">f43965bc1b9c1610722ac91b234bcb1e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="RingiKessai">f43965bc1b9c1610722ac91b234bcb1e</sys_scope>
+        <sys_scope_delete display_value="">48878aa946d24abb97359892e501ca81</sys_scope_delete>
+        <sys_update_name>ml_capability_definition_record_047ccc9d2baeda9091cffd80de91bf4c</sys_update_name>
+        <sys_update_version display_value="ml_capability_definition_record_047ccc9d2baeda9091cffd80de91bf4c">c47ccc9d2baeda9091cffd80de91bf50</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-25 08:22:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
